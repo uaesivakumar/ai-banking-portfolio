@@ -23,7 +23,7 @@ LinkedIn: [linkedin.com/in/uaesivakumar](https://www.linkedin.com/in/uaesivakuma
 
 The largest project in this portfolio. A multi-service platform that aggregates public business data, enriches it with LLM analysis, and surfaces actionable sales intelligence for banking relationship managers.
 
-**Scale:** 1,600+ source files | 92 database migrations | 3 microservices | Months of development alongside a full-time job
+**Scale:** 2,676+ source files | 4 repositories | 38+ specialized services | 87 database migrations | 80+ tables | Months of development alongside a full-time job
 
 ### Architecture
 
@@ -78,6 +78,19 @@ The largest project in this portfolio. A multi-service platform that aggregates 
 
 Deployment: GCP Cloud Run · Docker · Pub/Sub · Secret Manager
 ```
+
+### System Scope (Full Platform)
+
+The simplified diagram above shows the core flow. The full platform comprises:
+
+- **SaaS Layer** (Next.js 14): 1,690 files, 392 app routes, Prisma ORM, Stripe billing, multi-tenant auth
+- **Intelligence Engine** (Node.js/Express): 986 files, 38+ services, 51 OS-layer modules, multi-agent orchestration
+- **Worker Service**: Async background processing on GCP Cloud Run
+- **Infrastructure**: Terraform on GCP (Cloud Run, Cloud SQL, Pub/Sub, Secret Manager, BigQuery)
+
+Key subsystems: 11-layer discovery pipeline with multi-agent retrieval (Brave + Firecrawl + Jina), SIVA AI brain with 3-tier tool architecture (Foundation/Strict/Delegated), persona-as-policy governance, QTLE composite scoring, deterministic outreach state machine, event-sourced audit trails, and 6 hard gates enforcing invariants at every decision point.
+
+5 provisional patent applications filed for novel architectures.
 
 ### Key Technical Decisions
 
