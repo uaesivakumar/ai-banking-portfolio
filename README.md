@@ -4,7 +4,7 @@
 
 > These projects are in private repositories. This document provides architecture overviews and technical decisions without exposing proprietary code.
 
-LinkedIn: [linkedin.com/in/uaesivakumar](https://www.linkedin.com/in/uaesivakumar/) | Web: [skc.digital](https://skc.digital) | Email: contact@skc.digital
+LinkedIn: [linkedin.com/in/uaesivakumar](https://www.linkedin.com/in/uaesivakumar/) | Web: [sivakumar.ai](https://sivakumar.ai) | Email: siva@sivakumar.ai
 
 ---
 
