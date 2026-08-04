@@ -2,7 +2,7 @@
 
 # AI Systems Portfolio
 
-**Nine production AI systems across six industries — what they do, how they are
+**Nine production AI systems across eight domains — what they do, how they are
 built, and the decisions that turned out to matter.**
 
 [![Systems](https://img.shields.io/badge/systems-9-1f6feb?style=flat-square)](#the-systems)
@@ -41,7 +41,7 @@ Three related repositories, doing different jobs:
 | [**Coach**](#coach) | HR / performance | Structured performance evaluation with constrained LLM output | 🛠️ Architecture |
 | [**Arsha LMS**](#smaller-systems) | EdTech | Multi-tenant learning platform | 🛠️ In design |
 | [**Chunav**](#smaller-systems) | Civic analytics | Election analytics and visualisation | 🛠️ In design |
-| [**Payroll Enrichment**](#smaller-systems) | Data engineering | ADGM registry extraction and enrichment pipeline | 🛠️ In build |
+| [**Payroll Enrichment**](#smaller-systems) | Data engineering | ADGM registry extraction and enrichment pipeline | 🟢 Live |
 
 ---
 
